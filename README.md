@@ -7,10 +7,9 @@
 
 <strong>Начальное состояние системы:</strong>
 
-<img src="https://user-images.githubusercontent.com/76095519/214595667-be03dc84-01bb-4bb1-ae0e-a47a75f33e5b.png" width="30%">
-![NUYZ](https://user-images.githubusercontent.com/76095519/214595667-be03dc84-01bb-4bb1-ae0e-a47a75f33e5b.png){width=50%}
-![NUXY](https://user-images.githubusercontent.com/76095519/214595699-6f804833-059f-4e85-a899-67ed1caa4990.png)
-![NUZX](https://user-images.githubusercontent.com/76095519/214595719-08818ba2-2416-4f15-a00f-80702e5a2c2e.png)
+<img src="https://user-images.githubusercontent.com/76095519/214595667-be03dc84-01bb-4bb1-ae0e-a47a75f33e5b.png" width="33%">
+<img src="https://user-images.githubusercontent.com/76095519/214595699-6f804833-059f-4e85-a899-67ed1caa4990.png" width="33%">
+<img src="https://user-images.githubusercontent.com/76095519/214595719-08818ba2-2416-4f15-a00f-80702e5a2c2e.png" width="33%">
 
 <strong>Результат моделироания:</strong>
 
