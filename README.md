@@ -12,6 +12,4 @@
 <strong>Результат моделироания:</strong>
 
 <img src="https://user-images.githubusercontent.com/76095519/214595786-b478fd49-e3ba-4f91-bb5e-59305bdedfaf.png" width="30%"> <img src="https://user-images.githubusercontent.com/76095519/214595809-932eb214-f1d8-4f5a-a306-f9a90a191219.png" width="30%"> <img src="https://user-images.githubusercontent.com/76095519/214595822-060031c8-9aa8-40b6-919a-ab051f63a3cb.png" width="30%">
-![ResYZ](https://user-images.githubusercontent.com/76095519/214595786-b478fd49-e3ba-4f91-bb5e-59305bdedfaf.png)
-![ResXY](https://user-images.githubusercontent.com/76095519/214595809-932eb214-f1d8-4f5a-a306-f9a90a191219.png)
-![ResZX](https://user-images.githubusercontent.com/76095519/214595822-060031c8-9aa8-40b6-919a-ab051f63a3cb.png)
+
